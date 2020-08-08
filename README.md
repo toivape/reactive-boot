@@ -1,2 +1,2 @@
-# kotlin-fullstack
-Full stack example app with React frontend and Kotlin backend
+# reactive-boot
+Simple reactive spring boot REST API
